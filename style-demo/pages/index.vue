@@ -21,7 +21,7 @@
     </div>
   </section>
 </template>
-
+s
 <script>
 import AppLogo from '~/components/AppLogo.vue'
 
